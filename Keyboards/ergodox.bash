@@ -18,12 +18,12 @@ BuildPath="ICED-L"
 ## KLL Configuration ##
 
 # Generally shouldn't be changed, this will affect every layer
-BaseMap="defaultMap leftHand slave1 rightHand"
+BaseMap="defaultMap leftThenRight"
 
 # This is the default layer of the keyboard
 # NOTE: To combine kll files into a single layout, separate them by spaces
 # e.g.  DefaultMap="mylayout mylayoutmod"
-DefaultMap="mdergo1Overlay lcdFuncMap"
+DefaultMap="functionKeys lcdFuncMap"
 
 # This is where you set the additional layers
 # NOTE: Indexing starts at 1
@@ -31,7 +31,7 @@ DefaultMap="mdergo1Overlay lcdFuncMap"
 # e.g.  PartialMaps[1]="layer1 layer1mod"
 #       PartialMaps[2]="layer2"
 #       PartialMaps[3]="layer3"
-PartialMaps[1]="iced_func"
+PartialMaps[1]="layer1"
 PartialMaps[2]="iced_numpad"
 
 

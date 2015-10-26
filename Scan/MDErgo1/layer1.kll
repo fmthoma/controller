@@ -1,0 +1,42 @@
+Name = ICED Function Layer;
+Version = 0.1;
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = 0.3c;
+
+# Modified Date
+Date = 2015-08-21;
+
+U"Function1" : U"F1";
+U"1"         : U"F2";
+U"2"         : U"F3";
+U"3"         : U"F4";
+U"4"         : U"F5";
+U"5"         : U"F6";
+U"6"         : U"F7";
+U"7"         : U"F8";
+U"8"         : U"F9";
+U"9"         : U"F10";
+U"0"         : U"F11";
+U"Minus"     : U"F12";
+
+U"Q" : U"1";
+U"W" : U"2";
+U"E" : U"3";
+U"R" : U"4";
+U"T" : U"5";
+U"Y" : U"6";
+U"U" : U"7";
+U"I" : U"8";
+U"O" : U"9";
+U"P" : U"0";
+U"LBrace" : U"Minus";
+
+U"H" : U"Left";
+U"J" : U"Down";
+U"K" : U"Up";
+U"L" : U"Right";
+
+U"M"      : U"Home";
+U"Comma"  : U"PageDown";
+U"Period" : U"PageUp";
+U"Slash"  : U"End";
