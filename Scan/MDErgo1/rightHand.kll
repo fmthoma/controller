@@ -44,11 +44,11 @@ S0x1F : U"M";
 S0x20 : U"Comma";
 S0x21 : U"Period";
 S0x22 : U"Slash";
-S0x23 : U"Function12";
+S0x23 : U"RGui";
 
 # Bottom Thumb Cluster
 S0x24 : U"Function10";
-S0x25 : U"RGui";
+S0x25 : U"Function12";
 S0x26 : U"CapsLock"; # Mod3
 S0x27 : U"Space";
 
