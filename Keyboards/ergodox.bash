@@ -31,7 +31,7 @@ DefaultMap="functionKeys lcdFuncMap"
 # e.g.  PartialMaps[1]="layer1 layer1mod"
 #       PartialMaps[2]="layer2"
 #       PartialMaps[3]="layer3"
-PartialMaps[1]="layer1"
+PartialMaps[1]="layer1 lcdFuncMap"
 PartialMaps[2]="iced_numpad"
 
 
