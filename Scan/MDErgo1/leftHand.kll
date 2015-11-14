@@ -49,8 +49,8 @@ S0x23 : U"Function2";
 # Bottom Thumb Cluster
 S0x24 : U"LAlt";
 S0x25 : U"LCtrl";
-S0x26 : U"LShift";
-S0x27 : U"RAlt"; # Mod4
+S0x26 : U"RAlt"; # Mod4
+S0x27 : U"LShift";
 
 # Bottom Row
 S0x28 : U"LGui" + U"4";
