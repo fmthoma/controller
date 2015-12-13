@@ -53,9 +53,9 @@ S0x26 : U"RAlt"; # Mod4
 S0x27 : U"LShift";
 
 # Bottom Row
-S0x28 : U"LGui" + U"4";
-S0x29 : U"LGui" + U"3";
-S0x2A : U"LGui" + U"2";
-S0x2B : U"LGui" + U"1";
-S0x2C : U"LGui" + U"Enter";
+S0x28 : U"LGui";
+S0x29 : U"LGui" + U"4";
+S0x2A : U"LGui" + U"3";
+S0x2B : U"LGui" + U"2";
+S0x2C : U"LGui" + U"1";
 
